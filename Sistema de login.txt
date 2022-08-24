@@ -1,2 +1,3 @@
 Insira seu nome=
 Sua senha=
+Sua idade=
